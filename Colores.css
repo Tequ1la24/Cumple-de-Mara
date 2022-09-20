@@ -26,6 +26,8 @@ p{
 }
 .recuerdo1{
 	width: 600px;
+	border: 10px inset mediumpurple;
+	border-radius: 10px;
 }
 .boton1{
 	font-size: 15px;
@@ -39,5 +41,6 @@ p{
 }
 .recuerdo2{
 	height: 400px;
-	border: 100px 5px;
+	border: 10px inset mediumpurple;
+	border-radius: 10px;
 }
